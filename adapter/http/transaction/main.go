@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/MarcosDiorio/dio-expert-session-pre-class/model/transaction"
+	"github.com/MarcosDiorio/dio-expert-session-finance/model/transaction"
 )
 
 var transactions = transaction.Transactions{}
